@@ -6,8 +6,7 @@
 ### Sobre mi: 
 ### "Mi motivación es la resolución de los diferentes problemas que surgen a lo largo de mi vida"
 ### Me gusta entrenar, salir a tomar algo y aprender cosas nuevas.
-###  (https://www.instagram.com/ruso_kalinin/)
-
+###  (https://www.instagram.com/ruso_kalinin/)  19
 ![mi foto](fotoP.jpeg)
 
 
