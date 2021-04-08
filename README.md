@@ -3,9 +3,10 @@
 
 ## Estudiante: Alexander Kalinin
 
-### Sobre mi: "Mi motivación es la resolución de los diferentes problemas que surgen a lo largo de mi vida"
+### Sobre mi: 
+###"Mi motivación es la resolución de los diferentes problemas que surgen a lo largo de mi vida"
+### Me gusta entrenar, salir a tomar algo y estar en la compu
 ### ig: ruso_kalinin
-## Me gusta entrenar, salir a tomar algo y estar en la compu
 
 ![mi foto](fotoP.jpeg)
 
